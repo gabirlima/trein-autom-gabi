@@ -34,7 +34,6 @@ public class PesquisaGoogle {
         WebElement BotaoSubmit = driver.findElement(By.name("btnK"));
         BotaoSubmit.click();
 
-        //wait = new WebDriverWait(driver, 10);
         WebElement qntdResultado = wait.until(ExpectedConditions.presenceOfElementLocated(By.id("resultStats")));
         Assert.assertEquals(true, qntdResultado.isDisplayed());
 

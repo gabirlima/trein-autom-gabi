@@ -38,8 +38,8 @@
       <file leaf-file-name="PesquisaGoogle.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/projeto/PesquisaGoogle.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="305">
-              <caret line="43" column="24" lean-forward="true" selection-start-line="43" selection-start-column="24" selection-end-line="43" selection-end-column="24" />
+            <state relative-caret-position="186">
+              <caret line="36" selection-start-line="36" selection-end-line="36" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -536,6 +536,15 @@
     <history-entry file="PesquisaGoogle_comecandoOTesteAutomatizado - 2018.03.28 at 16h 28m 54s.xml">
       <configuration name="PesquisaGoogle.comecandoOTesteAutomatizado" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="PesquisaGoogle_comecandoOTesteAutomatizado - 2018.03.28 at 16h 51m 56s.xml">
+      <configuration name="PesquisaGoogle.comecandoOTesteAutomatizado" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PesquisaGoogle_comecandoOTesteAutomatizado - 2018.03.28 at 17h 04m 28s.xml">
+      <configuration name="PesquisaGoogle.comecandoOTesteAutomatizado" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PesquisaGoogle_comecandoOTesteAutomatizado - 2018.03.28 at 17h 04m 47s.xml">
+      <configuration name="PesquisaGoogle.comecandoOTesteAutomatizado" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -578,6 +587,11 @@
     <MESSAGE value="teste" />
     <option name="LAST_COMMIT_MESSAGE" value="teste" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
@@ -588,8 +602,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/projeto/PesquisaGoogle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="305">
-          <caret line="43" column="24" lean-forward="true" selection-start-line="43" selection-start-column="24" selection-end-line="43" selection-end-column="24" />
+        <state relative-caret-position="186">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
