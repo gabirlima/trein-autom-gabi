@@ -38,8 +38,8 @@
       <file leaf-file-name="PesquisaGoogle.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/projeto/PesquisaGoogle.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="17" column="41" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
+            <state relative-caret-position="305">
+              <caret line="43" column="24" lean-forward="true" selection-start-line="43" selection-start-column="24" selection-end-line="43" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -435,6 +435,29 @@
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
+    <configuration name="PesquisaGoogle.comecandoOTesteAutomatizado" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="trein-autom-gabi_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="projeto.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="projeto" />
+      <option name="MAIN_CLASS_NAME" value="projeto.PesquisaGoogle" />
+      <option name="METHOD_NAME" value="comecandoOTesteAutomatizado" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
@@ -473,6 +496,11 @@
       <properties />
       <listeners />
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.PesquisaGoogle.comecandoOTesteAutomatizado" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -495,24 +523,39 @@
     <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="PesquisaGoogle_comecandoOTesteAutomatizado - 2018.03.28 at 15h 45m 23s.xml">
+      <configuration name="PesquisaGoogle.comecandoOTesteAutomatizado" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PesquisaGoogle_comecandoOTesteAutomatizado - 2018.03.28 at 16h 15m 17s.xml">
+      <configuration name="PesquisaGoogle.comecandoOTesteAutomatizado" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PesquisaGoogle_comecandoOTesteAutomatizado - 2018.03.28 at 16h 16m 54s.xml">
+      <configuration name="PesquisaGoogle.comecandoOTesteAutomatizado" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PesquisaGoogle_comecandoOTesteAutomatizado - 2018.03.28 at 16h 28m 54s.xml">
+      <configuration name="PesquisaGoogle.comecandoOTesteAutomatizado" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" weight="0.3290938" />
       <window_info anchor="right" id="Palette&#9;" />
       <window_info id="Image Layers" />
       <window_info anchor="right" id="Capture Analysis" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3290938" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24304539" />
-      <window_info anchor="bottom" id="Build" visible="true" weight="0.30206677" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24304539" />
+      <window_info anchor="bottom" id="Build" weight="0.30206677" />
       <window_info anchor="right" id="Gradle" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -545,8 +588,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/projeto/PesquisaGoogle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="17" column="41" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
+        <state relative-caret-position="305">
+          <caret line="43" column="24" lean-forward="true" selection-start-line="43" selection-start-column="24" selection-end-line="43" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
